@@ -1,6 +1,6 @@
 <img align="left" alt="Python" width="1000px" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-### नमस्ते (Namaste)🙏🏻, I am Shreyash Gade 👋
+██▓▒­░⡷⠂नमस्ते (𝙽𝚊𝚖𝚊𝚜𝚝𝚎)🙏🏻, 𝙸 𝚊𝚖 𝚂𝚑𝚛𝚎𝚢𝚊𝚜𝚑 𝙶𝚊𝚍𝚎 👋⠐⢾░▒▓██
 
 
 
