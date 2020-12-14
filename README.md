@@ -4,7 +4,7 @@
 
 
 
-- 🎯 Portfolio website: [Portfolio](https://shreyash05.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://shreyash05.github.io/Portfolio/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
