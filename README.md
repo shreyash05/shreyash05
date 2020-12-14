@@ -1,4 +1,4 @@
-<img align="left" alt="Python" width="1000px" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f1d0d572816947.5c2bcd89d519b.gif" />
+<img align="left" alt="Python" width="1000px" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ### नमस्ते (Namaste)🙏🏻, I am Shreyash Gade 👋
 
